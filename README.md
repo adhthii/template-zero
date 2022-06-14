@@ -17,4 +17,10 @@ then, customize it how you'd like.
 
 <img width="1440" alt="Screen Shot 2022-06-13 at 5 29 40 PM" src="https://user-images.githubusercontent.com/107445259/173468929-915436d1-7dec-4a6b-b0b6-7861ef4c6636.png">
 
-## 
+## frontend techncials included: 
+
+- buttons 
+- links 
+- accordians 
+- nav bar 
+- faq bar 
